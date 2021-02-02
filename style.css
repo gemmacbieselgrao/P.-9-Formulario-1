@@ -1,0 +1,23 @@
+#fecha{
+    padding-left: 10px;
+    padding-right: 111px;
+}
+.acceso{
+    text-align: justify;
+    box-sizing: border-box;
+    margin-right: 25px;
+    font-family: 'arial';
+   
+}
+input[type="submit"] {
+    position: relative;
+    width: 20%;
+margin-top: auto;
+background-color: orange;
+border: 10px solid orange;
+   color: white;
+    border-radius: 5px;
+    text-align: center;
+  }
+
+
